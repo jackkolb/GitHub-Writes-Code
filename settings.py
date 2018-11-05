@@ -58,6 +58,4 @@ def read_settings():
 def write_settings(settings):
     # not yet implemented
     return
-
-print(read_settings())
-            
+           
